@@ -3,7 +3,7 @@
 <!-- Hi, did you think there would be something secret hiding in the source for this? -->
 <!-- There is nothing other than markdown back here. -->
 
-Hi, I'm Toptal. I am a Software Engineer from La Mirada, CA.  
+Hi, I'm Brian G. I am a Software Engineer from La Mirada, CA.  
 I spend most of my free time working on projects for a small group called [NextCypher](https://github.com/nextcypher), in an attempt to create something that will make people's lives easier.
 
 ### My experience
