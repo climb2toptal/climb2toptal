@@ -22,5 +22,3 @@ Some statistics related to my activity on GitHub.
 ![Profile views](https://komarev.com/ghpvc?username=climb2toptal&color=2155CC&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/796b9400-dd1e-4e14-89bf-58ba2490722f.svg)](https://wakatime.com/@climb2toptal)  
 
-![GitHub stars](https://img.shields.io/github/stars/climb2toptal/optimism-infra
-?style=social)
